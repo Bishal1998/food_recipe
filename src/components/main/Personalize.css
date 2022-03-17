@@ -1,0 +1,11 @@
+
+.carosual {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+}
+
+.img {
+    border-radius: 55%;
+    width: 25%;
+}

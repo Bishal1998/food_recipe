@@ -1,0 +1,14 @@
+
+.top {
+    padding-top: 15%;
+}
+
+.underline {
+    width: 33%;
+    border-bottom: 10px solid black;
+    position: relative;
+    align-content: initial;
+    margin: 0 33% 0 33%;
+    border-radius: 90%;
+    
+}

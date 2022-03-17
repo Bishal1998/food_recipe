@@ -1,0 +1,20 @@
+
+.heading {
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.nutrients {
+    display: grid;
+    align-items: center;
+    
+}
+
+.list {
+    display: inline-block;
+    padding: 10px;
+}
+
+label {
+    display: inline;
+}
